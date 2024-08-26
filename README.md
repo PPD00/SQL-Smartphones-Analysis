@@ -17,12 +17,31 @@ The main objectives of this project are -
 
 - Brand Performance- Ranking and comparing brands based on various performance metrics such as display quality, processing power, and battery capacity.
 
-  ## Result and Insights:
-  
-- Brand Analysis: The analysis revealed that certain brands consistently outperform others in terms of display quality, processing power, and battery capacity.
 
-- 5G Adoption: X% of the smartphones in the dataset support 5G, indicating a significant trend towards faster connectivity in the smartphone market.
+## Result and Insights:
 
-- Feature Correlation: A strong positive correlation was found between screen size and refresh rate in certain brands, suggesting that larger screens often come with higher refresh rates.
+1. The top 3 brands with the highest-rated models are Motorola, OnePlus, and Realme. These brands have consistently high customer satisfaction.
 
-- Market Trends: The data indicates an increasing emphasis on higher resolution displays and larger storage capacities, reflecting consumer demand for high-performance smartphones.
+2.  Approximately 56% of the smartphones in the dataset support 5G technology. This indicates a significant trend towards the adoption of 5G.
+
+3. Correlation analysis reveals that Oppo and Honor have a moderate positive correlation between screen size and refresh rate, with coefficients of 0.5467 and 0.5162 respectively.
+
+4. Leitz ranks first with the highest refresh rate of 240Hz, followed by Asus with a refresh rate of 165Hz.
+
+5. The brands with the highest RAM capacity and internal memory are Vertu, Cat, Itel, Lyf, and TCL.
+
+6. The top 5 models with the highest screen resolution are:
+- Sony Xperia 1 II
+- Sony Xperia 1 IV (12GB RAM + 512GB)
+- Sony Xperia Pro-I
+- Huawei Mate Xs 2
+- Huawei Mate X
+
+7. The top 3 processor brands based on speed are Snapdragon, Dimensity, and Bionic.
+
+8. The brands with the highest RAM capacity and internal memory are Vertu, Cat, Itel, Lyf, and TCL.
+
+9. The smartphone model with the highest processor speed is the OnePlus 11 5G from OnePlus.
+
+
+There are other possibilities for further data analysis but for now we will conclude here as these insights are the most valuable for driving business success.
